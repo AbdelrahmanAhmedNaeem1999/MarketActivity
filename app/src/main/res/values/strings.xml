@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarketActivity</string>
+    <string name="tab_text_1" translatable="false">المكونات</string>
+    <string name="tab_text_2" translatable="false">معلومات عن المكان</string>
+</resources>
